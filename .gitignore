@@ -1,8 +1,5 @@
 config.h
-gnome-doc-utils.make
-help/terminatorX-manual-C.omf
 src/icons/tX_dialog_resources.c
-src/icons/tX_icons_resources.c
 src/icons/tX_knob_resources.c
 src/license.c
 src/terminatorX
